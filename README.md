@@ -2,13 +2,13 @@
 Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
 
 ## To Do List:
-1. Following the tutorial of Virtus Learning Hub to finish basic FPS gameplay
-https://www.youtube.com/playlist?list=PLL0cLF8gjBprG6487lxqSq-aEo6ZXLDLg
-2. Adding "swarms of zombies" feature like World War Z(game, 2019)
+1. Following the tutorial of [Virtus Learning Hub](https://www.youtube.com/playlist?list=PLL0cLF8gjBprG6487lxqSq-aEo6ZXLDLg) to finish basic FPS gameplay.
+
+2. Adding "swarms of zombies" feature like World War Z(game, 2019).
 
 ## Log
 - [ ] Finish the tutorial of Virtus Learning Hub
-  - [x] Introduction-[2020.03.20]
+  - [x] Introduction [2020.03.20]
   - [ ] True First Person Camera
   - [ ] Player Health & Armor
   - [ ] Regenerating Armor & Damage Function
