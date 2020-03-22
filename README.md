@@ -10,7 +10,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
 - [ ] Finish the tutorial of Virtus Learning Hub
   - [x] Introduction [2020.03.20]
   - [x] True First Person Camera [2020.03.21]
-  - [ ] Player Health & Armor
+  - [x] Player Health & Armor [2020.03.22]
   - [ ] Regenerating Armor & Damage Function
   - [ ] Blood Splash Effect
   - [ ] Setting Up Character Animations
