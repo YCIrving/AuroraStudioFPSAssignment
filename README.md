@@ -11,7 +11,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Introduction [2020.03.20]
   - [x] True First Person Camera [2020.03.21]
   - [x] Player Health & Armor [2020.03.22]
-  - [ ] Regenerating Armor & Damage Function
+  - [x] Regenerating Armor & Damage Function [2020.03.23]
   - [ ] Blood Splash Effect
   - [ ] Setting Up Character Animations
   - [ ] Finishing The Animation Blueprint
