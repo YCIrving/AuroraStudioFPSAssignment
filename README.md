@@ -14,7 +14,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Regenerating Armor & Damage Function [2020.03.23]
   - [x] Blood Splash Effect [2020.03.24]
   - [x] Setting Up Character Animations [2020.03.25]
-  - [ ] Finishing The Animation Blueprint
+  - [x] Finishing The Animation Blueprint [2020.03.26]
   - [ ] Adding The AK-47 Weapon
   - [ ] Firing Our AK-47 Weapon
   - [ ] Crouching With Animations
