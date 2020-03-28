@@ -16,7 +16,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Setting Up Character Animations [2020.03.25]
   - [x] Finishing The Animation Blueprint [2020.03.26]
   - [x] Adding The AK-47 Weapon [2020.03.27]
-  - [ ] Firing Our AK-47 Weapon
+  - [x] Firing Our AK-47 Weapon [2020.03.28]
   - [ ] Crouching With Animations
   - [ ] Sprinting With Animations
   - [ ] Using Control Rotation
