@@ -23,7 +23,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Fully Automatic Rifle [2020.04.02]
   - [x] Aiming Down Sights [2020.04.02]
   - [x] Spawning The Muzzle Flash [2020.04.04]
-  - [ ] Fixing Movement States
+  - [x] Fixing Movement States [2020.04.04]
   - [ ] Setting Up Ammo & Reloading
   - [ ] Conservative Ammo Reloading
   - [ ] Weapon Reload Animation
