@@ -28,7 +28,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Conservative Ammo Reloading [2020.04.07]
   - [x] Weapon Reload Animation [2020.04.07]
   - [x] Firing System Fix [2020.04.08]
-  - [ ] Aiming With A Crosshair
+  - [x] Aiming With A Crosshair [2020.04.09]
   - [ ] Dynamic Spread Crosshair
   - [ ] Picking Up Ammo
   - [ ] Setting Up AI & Bullet Damage
