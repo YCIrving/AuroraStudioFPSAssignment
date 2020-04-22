@@ -34,7 +34,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Setting Up AI & Bullet Damage [2020.04.22]
   - [x] Enemy AI Following/Chasing [2020.04.22]
   - [x] Aiming Fixes [2020.04.22]
-  - [ ] Smarter AI Actions
+  - [x] Smarter AI Actions [2020.04.22]
   - [ ] Random AI Roaming Setup
   - [ ] Smooth Gun Movement
   - [ ] Simple Objective System
