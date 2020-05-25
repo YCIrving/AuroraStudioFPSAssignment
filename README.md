@@ -39,7 +39,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Smooth Gun Movement [2020.04.23]
   - [x] Simple Objective System [2020.04.24]
   - [x] Setting Up Our HUD [2020.05.15]
-  - [ ] Enemy Killfeed
+  - [x] Enemy Killfeed [2020.05.25]
   - [ ] Creating a Minimap
   - [ ] Match Timer
   - [ ] Hit Marker With Animation
