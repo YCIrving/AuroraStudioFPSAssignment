@@ -42,7 +42,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Enemy Killfeed [2020.05.25]
   - [x] Creating a Minimap [2020.05.26]
   - [x] Match Timer [2020.05.30]
-  - [ ] Hit Marker With Animation
+  - [x] Hit Marker With Animation [2020.05.30]
   - [ ] Starting Weapon Switching (HUD)
   - [ ] M4A1 Weapon Pickup
   - [ ] Weapon Pickup Message
