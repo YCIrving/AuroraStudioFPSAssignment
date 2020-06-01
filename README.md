@@ -46,7 +46,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Starting Weapon Switching (HUD) [2020.05.30]
   - [x] M4A1 Weapon Pickup [2020.05.30]
   - [x] Weapon Pickup Message [2020.05.31]
-  - [ ] M4A1 Weapon Setup
+  - [x] M4A1 Weapon Setup [2020.06.01]
   - [ ] Changing Weapon Visibility
   - [ ] Displaying Secondary Ammo
   - [ ] Consuming & Reloading M4A1 Ammo
