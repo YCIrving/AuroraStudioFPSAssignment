@@ -47,8 +47,8 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] M4A1 Weapon Pickup [2020.05.30]
   - [x] Weapon Pickup Message [2020.05.31]
   - [x] M4A1 Weapon Setup [2020.06.01]
-  - [ ] Changing Weapon Visibility
-  - [ ] Displaying Secondary Ammo
+  - [x] Changing Weapon Visibility [2020.06.09]
+  - [x] Displaying Secondary Ammo [2020.06.09]
   - [ ] Consuming & Reloading M4A1 Ammo
   - [ ] Weapon Line Tracing
   - [ ] Ray Tracing While Aiming Down Sight
