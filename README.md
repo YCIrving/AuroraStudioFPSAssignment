@@ -49,11 +49,11 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] M4A1 Weapon Setup [2020.06.01]
   - [x] Changing Weapon Visibility [2020.06.09]
   - [x] Displaying Secondary Ammo [2020.06.09]
-  - [ ] Consuming & Reloading M4A1 Ammo
-  - [ ] Weapon Line Tracing
-  - [ ] Ray Tracing While Aiming Down Sight
-  - [ ] Damaging With Line Trace
-  - [ ] Crouch Height Adjustment
+  - [x] Consuming & Reloading M4A1 Ammo [2020.06.10]
+  - [x] Weapon Line Tracing [2020.06.10]
+  - [x] Ray Tracing While Aiming Down Sight [2020.06.10]
+  - [x] Damaging With Line Trace [2020.06.10]
+  - [x] Crouch Height Adjustment [2020.06.10]
   - [ ] Zombie body setup
   - [ ] Zombie Ragdoll Death Physics
   - [ ] Zombie Attack Animation
