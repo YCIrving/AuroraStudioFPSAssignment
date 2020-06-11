@@ -54,9 +54,9 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Ray Tracing While Aiming Down Sight [2020.06.10]
   - [x] Damaging With Line Trace [2020.06.10]
   - [x] Crouch Height Adjustment [2020.06.10]
-  - [ ] Zombie body setup
-  - [ ] Zombie Ragdoll Death Physics
-  - [ ] Zombie Attack Animation
+  - [x] Zombie body setup [2020.06.11]
+  - [x] Zombie Ragdoll Death Physics [2020.06.11]
+  - [x] Zombie Attack Animation [2020.06.11]
   - [ ] Grenade Spawning
   - [ ] Grenade Damage
   - [ ] Starting The Game Level
