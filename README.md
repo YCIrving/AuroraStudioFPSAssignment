@@ -57,8 +57,8 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Zombie body setup [2020.06.11]
   - [x] Zombie Ragdoll Death Physics [2020.06.11]
   - [x] Zombie Attack Animation [2020.06.11]
-  - [ ] Grenade Spawning
-  - [ ] Grenade Damage
+  - [x] Grenade Spawning [2020.06.12]
+  - [x] Grenade Damage [2020.06.12]
   - [ ] Starting The Game Level
   - [ ] Decorating our level
   - [ ] Grenade Count
