@@ -61,6 +61,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Grenade Damage [2020.06.12]
   - [ ] Starting The Game Level
   - [ ] Decorating our level
-  - [ ] Grenade Count
+  - [x] Smoke Grenade [2020.06.14]
+  - [x] Grenade Count [2020.06.14]
 - [ ] Adding "swarms of zombies" feature
 
