@@ -7,7 +7,7 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
 2. Adding "swarms of zombies" feature like World War Z(game, 2019).
 
 ## Log
-- [ ] Finish the tutorial of Virtus Learning Hub
+- [x] Finish the tutorial of Virtus Learning Hub
   - [x] Introduction [2020.03.20]
   - [x] True First Person Camera [2020.03.21]
   - [x] Player Health & Armor [2020.03.22]
@@ -59,8 +59,8 @@ Basic FPS gameplay and massive "swarms of zombies" feature implemented using UE4
   - [x] Zombie Attack Animation [2020.06.11]
   - [x] Grenade Spawning [2020.06.12]
   - [x] Grenade Damage [2020.06.12]
-  - [ ] Starting The Game Level
-  - [ ] Decorating our level
+  - [x] Starting The Game Level [2020.06.15]
+  - [x] Decorating our level [2020.06.15]
   - [x] Smoke Grenade [2020.06.14]
   - [x] Grenade Count [2020.06.14]
 - [ ] Adding "swarms of zombies" feature
